@@ -1,7 +1,7 @@
 # CryptoTracker
 
 📱 The applicaition displays information about top 250 crypto coins. The cryptocurrency data that is used in this app comes from a free API from CoinGecko.
-> 100% SwiftUI, Combine, CoreData, FileManager for Image cache
+> 100% SwiftUI, Combine, CoreData, FileManager for Image cache, Chart -> GeometryReader + Path
 
 ## Requirements
 * iOS 15.0+
