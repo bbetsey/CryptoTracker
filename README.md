@@ -9,9 +9,9 @@
 ## Preview
 | Main List | Portfolio | Detail |
 :---:|:---:|:---:
-![home](https://github.com/bbetsey/CryptoTracker/assets/70851552/13248eba-84ac-43c2-97e4-c6866f31d087) | ![portfolio](https://github.com/bbetsey/CryptoTracker/assets/70851552/ffe179f1-2653-49ad-91e7-6209542c933e) | ![detail](https://github.com/bbetsey/CryptoTracker/assets/70851552/4c43017a-0bc4-4ef1-b42e-69b61134c86e)
+![home](https://github.com/bbetsey/CryptoTracker/assets/70851552/ae1aa9e8-efad-40f4-aa25-59ef196d1e0e) | ![portfolio](https://github.com/bbetsey/CryptoTracker/assets/70851552/9ba054ed-ad51-49c5-bdb9-f2843940f400) | ![detail](https://github.com/bbetsey/CryptoTracker/assets/70851552/5d00534a-6923-4c5f-8135-201cb9710f20)
 
 ## iPad Dark Mode
 | iPad Dark Mode |
 :---:|
-![ipad](https://github.com/bbetsey/CryptoTracker/assets/70851552/eb47488a-fa60-4aea-a3e2-250a5498166e)
+![ipad](https://github.com/bbetsey/CryptoTracker/assets/70851552/845f0ff2-f693-42b3-8595-c2bbcc509add)
