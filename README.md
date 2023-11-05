@@ -20,8 +20,3 @@
 | | | | | |
 :---:|:---:|:---:|:---:|:---:
 <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/ea56469b-3b37-4714-9a38-781ce1116441"  height="24%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/0c919922-f0e6-4542-bd90-d26b11416e6f"  height="24%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/ff36ee98-f6b3-44b3-b9c7-09e0c5fbb4ab"  height="24%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/2a496abf-5da0-4867-b01b-3915e306722f"  height="24%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/eaab93c8-5858-492b-93d4-47850cd2ed42"  height="24%">
-
-## iPad Dark Mode
-| iPad Dark Mode |
-:---:|
-![ipad](https://github.com/bbetsey/CryptoTracker/assets/70851552/845f0ff2-f693-42b3-8595-c2bbcc509add)
