@@ -13,7 +13,7 @@
 
 | | | | | |
 :---:|:---:|:---:|:---:|:---:
-<img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/3f7a3eb0-1f72-4657-ae2c-bdcd8793900d"  height="18%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/bf84cdba-0a74-415e-bd12-a010b1e872bc"  height="18%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/8d5137c6-36d4-4ebe-8516-3a7c05396581"  height="18%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/748e8d2e-e6ea-4cdd-bda5-501919a7e8cc"  height="18%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/a9002e07-2384-4ce0-b724-f6f1e2e89491"  height="18%">
+<img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/3f7a3eb0-1f72-4657-ae2c-bdcd8793900d"  height="20%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/bf84cdba-0a74-415e-bd12-a010b1e872bc"  height="20%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/8d5137c6-36d4-4ebe-8516-3a7c05396581"  height="20%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/748e8d2e-e6ea-4cdd-bda5-501919a7e8cc"  height="20%"> | <img src="https://github.com/bbetsey/CryptoTracker/assets/70851552/a9002e07-2384-4ce0-b724-f6f1e2e89491"  height="20%">
 
 ## iPad Dark Mode
 | iPad Dark Mode |
