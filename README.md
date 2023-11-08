@@ -1,4 +1,4 @@
-# CryptoTracker
+![CryptoTracker_cover](https://github.com/bbetsey/CryptoTracker/assets/70851552/e4e5524a-381c-473e-9e62-ead4713bc6fd)
 
 📱 The applicaition displays information about top 250 crypto coins. The cryptocurrency data that is used in this app comes from a free API from CoinGecko.
 > 100% SwiftUI, Combine, CoreData, FileManager for Image cache, Chart -> GeometryReader + Path
